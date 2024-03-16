@@ -1,0 +1,14 @@
+ray[data,train,tune,serve,rllib]==2.7.0
+catboost==1.2.2
+pyyaml
+scikit-learn==1.4.0
+openml
+matplotlib
+seaborn
+plotly
+jupyterlab
+ipywidgets
+tqdm
+polars
+more_itertools
+natsort

@@ -1,0 +1,1044 @@
+ASP-POTASSCO-regression:
+  n_features: 142
+  n_folds: 10
+  n_samples: 14234
+  n_samples_test: 1423
+  n_samples_trainval: 12811
+  openml_dataset_id: 41704
+  openml_task_id: 189936
+  task_type: regression
+Amazon_employee_access:
+  n_features: 9
+  n_folds: 10
+  n_samples: 32769
+  n_samples_test: 3277
+  n_samples_trainval: 29492
+  openml_dataset_id: 4135
+  openml_task_id: 359979
+  task_type: binary
+Australian:
+  n_features: 14
+  n_folds: 10
+  n_samples: 690
+  n_samples_test: 69
+  n_samples_trainval: 621
+  openml_dataset_id: 40981
+  openml_task_id: 146818
+  task_type: binary
+Bike_Sharing_Demand:
+  n_features: 6
+  n_folds: 10
+  n_samples: 17379
+  n_samples_test: 1738
+  n_samples_trainval: 15641
+  openml_dataset_id: 44142
+  openml_task_id: 361082
+  task_type: regression
+Bioresponse:
+  n_features: 1776
+  n_folds: 10
+  n_samples: 3751
+  n_samples_test: 375
+  n_samples_trainval: 3376
+  openml_dataset_id: 4134
+  openml_task_id: 359967
+  task_type: binary
+BitcoinHeist_Ransomware:
+  n_features: 7
+  n_folds: 10
+  n_samples: 24780
+  n_samples_test: 2478
+  n_samples_trainval: 22302
+  openml_dataset_id: 45037
+  openml_task_id: 361284
+  task_type: binary
+CD4:
+  n_features: 61
+  n_folds: 10
+  n_samples: 16484
+  n_samples_test: 1648
+  n_samples_trainval: 14836
+  openml_dataset_id: 41542
+  openml_task_id: 168887
+  task_type: regression
+CPMP-2015-regression:
+  n_features: 26
+  n_folds: 10
+  n_samples: 2108
+  n_samples_test: 211
+  n_samples_trainval: 1897
+  openml_dataset_id: 41700
+  openml_task_id: 189931
+  task_type: regression
+Census-Income:
+  n_features: 41
+  n_folds: 10
+  n_samples: 299285
+  n_samples_test: 29928
+  n_samples_trainval: 269356
+  openml_dataset_id: 4535
+  openml_task_id: 168340
+  task_type: binary
+Click_prediction_small:
+  n_features: 11
+  n_folds: 10
+  n_samples: 39948
+  n_samples_test: 3995
+  n_samples_trainval: 35953
+  openml_dataset_id: 42733
+  openml_task_id: 359992
+  task_type: binary
+Diabetes130US:
+  n_features: 49
+  n_folds: 10
+  n_samples: 101766
+  n_samples_test: 10177
+  n_samples_trainval: 91589
+  openml_dataset_id: 4541
+  openml_task_id: 211986
+  task_type: multiclass
+FOREX_eurnok-hour-High:
+  n_features: 11
+  n_folds: 10
+  n_samples: 43825
+  n_samples_test: 4382
+  n_samples_trainval: 39442
+  openml_dataset_id: 41768
+  openml_task_id: 360726
+  task_type: binary
+Higgs:
+  n_features: 28
+  n_folds: 10
+  n_samples: 1000000
+  n_samples_test: 100000
+  n_samples_trainval: 900000
+  openml_dataset_id: 42769
+  openml_task_id: 360114
+  task_type: binary
+Insurance:
+  n_features: 10
+  n_folds: 10
+  n_samples: 23548
+  n_samples_test: 2355
+  n_samples_trainval: 21193
+  openml_dataset_id: 45064
+  openml_task_id: 361306
+  task_type: regression
+KDD98:
+  n_features: 477
+  n_folds: 10
+  n_samples: 82318
+  n_samples_test: 8232
+  n_samples_trainval: 74086
+  openml_dataset_id: 42343
+  openml_task_id: 361329
+  task_type: binary
+KDDCup09_appetency:
+  n_features: 230
+  n_folds: 10
+  n_samples: 50000
+  n_samples_test: 5000
+  n_samples_trainval: 45000
+  openml_dataset_id: 1111
+  openml_task_id: 3945
+  task_type: binary
+KDDCup09_churn:
+  n_features: 230
+  n_folds: 10
+  n_samples: 50000
+  n_samples_test: 5000
+  n_samples_trainval: 45000
+  openml_dataset_id: 1112
+  openml_task_id: 3946
+  task_type: binary
+MIP-2016-regression:
+  n_features: 144
+  n_folds: 10
+  n_samples: 1090
+  n_samples_test: 109
+  n_samples_trainval: 981
+  openml_dataset_id: 43071
+  openml_task_id: 360945
+  task_type: regression
+MagicTelescope:
+  n_features: 10
+  n_folds: 10
+  n_samples: 13376
+  n_samples_test: 1338
+  n_samples_trainval: 12038
+  openml_dataset_id: 44073
+  openml_task_id: 361036
+  task_type: binary
+Mercedes_Benz_Greener_Manufacturing:
+  n_features: 376
+  n_folds: 10
+  n_samples: 4209
+  n_samples_test: 421
+  n_samples_trainval: 3788
+  openml_dataset_id: 42570
+  openml_task_id: 233215
+  task_type: regression
+MiamiHousing2016:
+  n_features: 13
+  n_folds: 10
+  n_samples: 13932
+  n_samples_test: 1393
+  n_samples_trainval: 12539
+  openml_dataset_id: 44147
+  openml_task_id: 361087
+  task_type: regression
+Moneyball:
+  n_features: 14
+  n_folds: 10
+  n_samples: 1232
+  n_samples_test: 123
+  n_samples_trainval: 1109
+  openml_dataset_id: 41021
+  openml_task_id: 167210
+  task_type: regression
+QSAR-TID-11:
+  n_features: 1024
+  n_folds: 10
+  n_samples: 5742
+  n_samples_test: 574
+  n_samples_trainval: 5168
+  openml_dataset_id: 3050
+  openml_task_id: 360932
+  task_type: regression
+SAT11-HAND-runtime-regression:
+  n_features: 116
+  n_folds: 10
+  n_samples: 4440
+  n_samples_test: 444
+  n_samples_trainval: 3996
+  openml_dataset_id: 41980
+  openml_task_id: 359948
+  task_type: regression
+Shipping:
+  n_features: 9
+  n_folds: 10
+  n_samples: 10999
+  n_samples_test: 1100
+  n_samples_trainval: 9899
+  openml_dataset_id: 45074
+  openml_task_id: 361315
+  task_type: regression
+SpeedDating:
+  n_features: 120
+  n_folds: 10
+  n_samples: 8378
+  n_samples_test: 838
+  n_samples_trainval: 7540
+  openml_dataset_id: 40536
+  openml_task_id: 146607
+  task_type: binary
+Titanic:
+  n_features: 3
+  n_folds: 10
+  n_samples: 2201
+  n_samples_test: 220
+  n_samples_trainval: 1981
+  openml_dataset_id: 40704
+  openml_task_id: 361339
+  task_type: binary
+Traffic_violations:
+  n_features: 20
+  n_folds: 10
+  n_samples: 70340
+  n_samples_test: 7034
+  n_samples_trainval: 63306
+  openml_dataset_id: 42345
+  openml_task_id: 361330
+  task_type: multiclass
+# UNIX_user_data: # seems like NLP
+#   n_features: 2
+#   n_folds: 10
+#   n_samples: 9100
+#   n_samples_test: 910
+#   n_samples_trainval: 8190
+#   openml_dataset_id: 373
+#   openml_task_id: 3508
+#   task_type: multiclass
+abalone:
+  n_features: 8
+  n_folds: 10
+  n_samples: 4177
+  n_samples_test: 418
+  n_samples_trainval: 3759
+  openml_dataset_id: 42726
+  openml_task_id: 359944
+  task_type: regression
+adult:
+  n_features: 14
+  n_folds: 10
+  n_samples: 48842
+  n_samples_test: 4884
+  n_samples_trainval: 43958
+  openml_dataset_id: 1590
+  openml_task_id: 359983
+  task_type: binary
+airlines:
+  n_features: 7
+  n_folds: 10
+  n_samples: 539383
+  n_samples_test: 53938
+  n_samples_trainval: 485445
+  openml_dataset_id: 1169
+  openml_task_id: 189354
+  task_type: binary
+bank-marketing:
+  n_features: 16
+  n_folds: 10
+  n_samples: 45211
+  n_samples_test: 4521
+  n_samples_trainval: 40690
+  openml_dataset_id: 1461
+  openml_task_id: 359982
+  task_type: binary
+bank32nh:
+  n_features: 32
+  n_folds: 10
+  n_samples: 8192
+  n_samples_test: 819
+  n_samples_trainval: 7373
+  openml_dataset_id: 558
+  openml_task_id: 4881
+  task_type: regression
+black_friday:
+  n_features: 9
+  n_folds: 10
+  n_samples: 166821
+  n_samples_test: 16682
+  n_samples_trainval: 150139
+  openml_dataset_id: 41540
+  openml_task_id: 359937
+  task_type: regression
+blood-transfusion-service-center:
+  n_features: 4
+  n_folds: 10
+  n_samples: 748
+  n_samples_test: 75
+  n_samples_trainval: 673
+  openml_dataset_id: 1464
+  openml_task_id: 359955
+  task_type: binary
+boston:
+  n_features: 13
+  n_folds: 10
+  n_samples: 506
+  n_samples_test: 51
+  n_samples_trainval: 455
+  openml_dataset_id: 531
+  openml_task_id: 359950
+  task_type: regression
+california_housing:
+  n_features: 8
+  n_folds: 10
+  n_samples: 20640
+  n_samples_test: 2064
+  n_samples_trainval: 18576
+  openml_dataset_id: 44977
+  openml_task_id: 361255
+  task_type: regression
+churn:
+  n_features: 20
+  n_folds: 10
+  n_samples: 5000
+  n_samples_test: 500
+  n_samples_trainval: 4500
+  openml_dataset_id: 40701
+  openml_task_id: 359968
+  task_type: binary
+cmc:
+  n_features: 9
+  n_folds: 10
+  n_samples: 1473
+  n_samples_test: 147
+  n_samples_trainval: 1326
+  openml_dataset_id: 23
+  openml_task_id: 359959
+  task_type: multiclass
+codrna:
+  n_features: 8
+  n_folds: 10
+  n_samples: 488565
+  n_samples_test: 48856
+  n_samples_trainval: 439708
+  openml_dataset_id: 351
+  openml_task_id: 3505
+  task_type: regression
+colleges:
+  n_features: 44
+  n_folds: 10
+  n_samples: 7063
+  n_samples_test: 706
+  n_samples_trainval: 6357
+  openml_dataset_id: 42727
+  openml_task_id: 359942
+  task_type: regression
+compas-two-years:
+  n_features: 11
+  n_folds: 10
+  n_samples: 4966
+  n_samples_test: 497
+  n_samples_trainval: 4469
+  openml_dataset_id: 45039
+  openml_task_id: 361286
+  task_type: binary
+connect-4:
+  n_features: 42
+  n_folds: 10
+  n_samples: 67557
+  n_samples_test: 6756
+  n_samples_trainval: 60801
+  openml_dataset_id: 40668
+  openml_task_id: 359977
+  task_type: multiclass
+covertype:
+  n_features: 54
+  n_folds: 10
+  n_samples: 581012
+  n_samples_test: 58101
+  n_samples_trainval: 522911
+  openml_dataset_id: 1596
+  openml_task_id: 7593
+  task_type: multiclass
+cps88wages:
+  n_features: 6
+  n_folds: 10
+  n_samples: 28155
+  n_samples_test: 2816
+  n_samples_trainval: 25340
+  openml_dataset_id: 44984
+  openml_task_id: 361261
+  task_type: regression
+credit:
+  n_features: 10
+  n_folds: 10
+  n_samples: 16714
+  n_samples_test: 1671
+  n_samples_trainval: 15043
+  openml_dataset_id: 44089
+  openml_task_id: 361055
+  task_type: binary
+credit-g:
+  n_features: 20
+  n_folds: 10
+  n_samples: 1000
+  n_samples_test: 100
+  n_samples_trainval: 900
+  openml_dataset_id: 31
+  openml_task_id: 168757
+  task_type: binary
+dataset_sales:
+  n_features: 14
+  n_folds: 10
+  n_samples: 10738
+  n_samples_test: 1074
+  n_samples_trainval: 9664
+  openml_dataset_id: 42183
+  openml_task_id: 190418
+  task_type: regression
+default-of-credit-card-clients:
+  n_features: 20
+  n_folds: 10
+  n_samples: 13272
+  n_samples_test: 1327
+  n_samples_trainval: 11945
+  openml_dataset_id: 45020
+  openml_task_id: 361275
+  task_type: binary
+delta_elevators:
+  n_features: 6
+  n_folds: 10
+  n_samples: 9517
+  n_samples_test: 952
+  n_samples_trainval: 8565
+  openml_dataset_id: 198
+  openml_task_id: 2289
+  task_type: regression
+dna:
+  n_features: 180
+  n_folds: 10
+  n_samples: 3186
+  n_samples_test: 319
+  n_samples_trainval: 2867
+  openml_dataset_id: 40670
+  openml_task_id: 359964
+  task_type: multiclass
+electricity:
+  n_features: 7
+  n_folds: 10
+  n_samples: 38474
+  n_samples_test: 3847
+  n_samples_trainval: 34627
+  openml_dataset_id: 44120
+  openml_task_id: 361060
+  task_type: binary
+elevators:
+  n_features: 18
+  n_folds: 10
+  n_samples: 16599
+  n_samples_test: 1660
+  n_samples_trainval: 14939
+  openml_dataset_id: 216
+  openml_task_id: 359936
+  task_type: regression
+eucalyptus:
+  n_features: 19
+  n_folds: 10
+  n_samples: 736
+  n_samples_test: 74
+  n_samples_trainval: 662
+  openml_dataset_id: 188
+  openml_task_id: 359954
+  task_type: multiclass
+fars:
+  n_features: 29
+  n_folds: 10
+  n_samples: 100959
+  n_samples_test: 10096
+  n_samples_trainval: 90863
+  openml_dataset_id: 45066
+  openml_task_id: 361308
+  task_type: regression
+fifa:
+  n_features: 5
+  n_folds: 10
+  n_samples: 18063
+  n_samples_test: 1806
+  n_samples_trainval: 16257
+  openml_dataset_id: 44026
+  openml_task_id: 361090
+  task_type: regression
+first-order-theorem-proving:
+  n_features: 51
+  n_folds: 10
+  n_samples: 6118
+  n_samples_test: 612
+  n_samples_trainval: 5506
+  openml_dataset_id: 1475
+  openml_task_id: 359969
+  task_type: multiclass
+grid_stability:
+  n_features: 12
+  n_folds: 10
+  n_samples: 10000
+  n_samples_test: 1000
+  n_samples_trainval: 9000
+  openml_dataset_id: 44973
+  openml_task_id: 361251
+  task_type: regression
+hcdr:
+  n_features: 69
+  n_folds: 10
+  n_samples: 244280
+  n_samples_test: 24428
+  n_samples_trainval: 219852
+  openml_dataset_id: 45071
+  openml_task_id: 361313
+  task_type: regression
+health_insurance:
+  n_features: 11
+  n_folds: 10
+  n_samples: 22272
+  n_samples_test: 2227
+  n_samples_trainval: 20045
+  openml_dataset_id: 44993
+  openml_task_id: 361269
+  task_type: regression
+heloc:
+  n_features: 22
+  n_folds: 10
+  n_samples: 10000
+  n_samples_test: 1000
+  n_samples_trainval: 9000
+  openml_dataset_id: 45026
+  openml_task_id: 361278
+  task_type: binary
+hiva_agnostic:
+  n_features: 1617
+  n_folds: 10
+  n_samples: 4229
+  n_samples_test: 423
+  n_samples_trainval: 3806
+  openml_dataset_id: 1039
+  openml_task_id: 3892
+  task_type: binary
+house_16H:
+  n_features: 16
+  n_folds: 10
+  n_samples: 22784
+  n_samples_test: 2278
+  n_samples_trainval: 20506
+  openml_dataset_id: 574
+  openml_task_id: 359952
+  task_type: regression
+house_prices_nominal:
+  n_features: 79
+  n_folds: 10
+  n_samples: 1460
+  n_samples_test: 146
+  n_samples_trainval: 1314
+  openml_dataset_id: 42563
+  openml_task_id: 359951
+  task_type: regression
+house_sales:
+  n_features: 21
+  n_folds: 10
+  n_samples: 21613
+  n_samples_test: 2161
+  n_samples_trainval: 19452
+  openml_dataset_id: 42731
+  openml_task_id: 359949
+  task_type: regression
+# hypothyroid: # has very minor classes with 1-2 samples
+#   n_features: 29
+#   n_folds: 10
+#   n_samples: 3772
+#   n_samples_test: 377
+#   n_samples_trainval: 3395
+#   openml_dataset_id: 57
+#   openml_task_id: 145808
+#   task_type: multiclass
+ipums_la_97-small:
+  n_features: 60
+  n_folds: 10
+  n_samples: 7019
+  n_samples_test: 702
+  n_samples_trainval: 6317
+  openml_dataset_id: 382
+  openml_task_id: 3517
+  task_type: multiclass
+jm1:
+  n_features: 21
+  n_folds: 10
+  n_samples: 10885
+  n_samples_test: 1088
+  n_samples_trainval: 9796
+  openml_dataset_id: 1053
+  openml_task_id: 168860
+  task_type: binary
+jungle_chess_2pcs_raw_endgame_complete:
+  n_features: 6
+  n_folds: 10
+  n_samples: 44819
+  n_samples_test: 4482
+  n_samples_trainval: 40337
+  openml_dataset_id: 41027
+  openml_task_id: 359981
+  task_type: multiclass
+kc1:
+  n_features: 21
+  n_folds: 10
+  n_samples: 2109
+  n_samples_test: 211
+  n_samples_trainval: 1898
+  openml_dataset_id: 1067
+  openml_task_id: 359962
+  task_type: binary
+kdd_internet_usage:
+  n_features: 68
+  n_folds: 10
+  n_samples: 10108
+  n_samples_test: 1011
+  n_samples_trainval: 9097
+  openml_dataset_id: 981
+  openml_task_id: 3844
+  task_type: binary
+kdd_ipums_la_97-small:
+  n_features: 20
+  n_folds: 10
+  n_samples: 5188
+  n_samples_test: 519
+  n_samples_trainval: 4669
+  openml_dataset_id: 44124
+  openml_task_id: 361064
+  task_type: binary
+kick:
+  n_features: 32
+  n_folds: 10
+  n_samples: 72983
+  n_samples_test: 7298
+  n_samples_trainval: 65685
+  openml_dataset_id: 41162
+  openml_task_id: 359991
+  task_type: binary
+kings_county:
+  n_features: 21
+  n_folds: 10
+  n_samples: 21613
+  n_samples_test: 2161
+  n_samples_trainval: 19452
+  openml_dataset_id: 44989
+  openml_task_id: 361266
+  task_type: regression
+law-school-admission-binary:
+  n_features: 10
+  n_folds: 10
+  n_samples: 20800
+  n_samples_test: 2080
+  n_samples_trainval: 18720
+  openml_dataset_id: 43904
+  openml_task_id: 361024
+  task_type: binary
+ldpa:
+  n_features: 7
+  n_folds: 10
+  n_samples: 164860
+  n_samples_test: 16486
+  n_samples_trainval: 148374
+  openml_dataset_id: 1483
+  openml_task_id: 9974
+  task_type: multiclass
+mammography:
+  n_features: 6
+  n_folds: 10
+  n_samples: 11183
+  n_samples_test: 1118
+  n_samples_trainval: 10065
+  openml_dataset_id: 310
+  openml_task_id: 3483
+  task_type: binary
+mc1:
+  n_features: 38
+  n_folds: 10
+  n_samples: 9466
+  n_samples_test: 947
+  n_samples_trainval: 8519
+  openml_dataset_id: 1056
+  openml_task_id: 3907
+  task_type: binary
+micro-mass:
+  n_features: 1300
+  n_folds: 10
+  n_samples: 571
+  n_samples_test: 57
+  n_samples_trainval: 514
+  openml_dataset_id: 1515
+  openml_task_id: 359953
+  task_type: multiclass
+mtp:
+  n_features: 202
+  n_folds: 10
+  n_samples: 4450
+  n_samples_test: 445
+  n_samples_trainval: 4005
+  openml_dataset_id: 405
+  openml_task_id: 4779
+  task_type: regression
+nomao:
+  n_features: 118
+  n_folds: 10
+  n_samples: 34465
+  n_samples_test: 3446
+  n_samples_trainval: 31018
+  openml_dataset_id: 1486
+  openml_task_id: 359980
+  task_type: binary
+numerai28.6:
+  n_features: 21
+  n_folds: 10
+  n_samples: 96320
+  n_samples_test: 9632
+  n_samples_trainval: 86688
+  openml_dataset_id: 23517
+  openml_task_id: 167120
+  task_type: binary
+nyc-taxi-green-dec-2016:
+  n_features: 18
+  n_folds: 10
+  n_samples: 581835
+  n_samples_test: 58184
+  n_samples_trainval: 523652
+  openml_dataset_id: 42729
+  openml_task_id: 359943
+  task_type: regression
+okcupid-stem:
+  n_features: 19
+  n_folds: 10
+  n_samples: 50789
+  n_samples_test: 5079
+  n_samples_trainval: 45710
+  openml_dataset_id: 42734
+  openml_task_id: 359993
+  task_type: multiclass
+# okcupid_stem:
+#   n_features: 13
+#   n_folds: 10
+#   n_samples: 26677
+#   n_samples_test: 2668
+#   n_samples_trainval: 24009
+#   openml_dataset_id: 45067
+#   openml_task_id: 361309
+#   task_type: multiclass
+online_shoppers:
+  n_features: 17
+  n_folds: 10
+  n_samples: 12330
+  n_samples_test: 1233
+  n_samples_trainval: 11097
+  openml_dataset_id: 45060
+  openml_task_id: 361302
+  task_type: binary
+ozone-level-8hr:
+  n_features: 72
+  n_folds: 10
+  n_samples: 2534
+  n_samples_test: 253
+  n_samples_trainval: 2281
+  openml_dataset_id: 1487
+  openml_task_id: 190137
+  task_type: binary
+page-blocks:
+  n_features: 10
+  n_folds: 10
+  n_samples: 5473
+  n_samples_test: 547
+  n_samples_trainval: 4926
+  openml_dataset_id: 30
+  openml_task_id: 30
+  task_type: multiclass
+particulate-matter-ukair-2017:
+  n_features: 9
+  n_folds: 10
+  n_samples: 394299
+  n_samples_test: 39430
+  n_samples_trainval: 354869
+  openml_dataset_id: 42207
+  openml_task_id: 360968
+  task_type: regression
+pc4:
+  n_features: 37
+  n_folds: 10
+  n_samples: 1458
+  n_samples_test: 146
+  n_samples_trainval: 1312
+  openml_dataset_id: 1049
+  openml_task_id: 359958
+  task_type: binary
+physiochemical_protein:
+  n_features: 9
+  n_folds: 10
+  n_samples: 45730
+  n_samples_test: 4573
+  n_samples_trainval: 41157
+  openml_dataset_id: 44963
+  openml_task_id: 361241
+  task_type: regression
+porto-seguro:
+  n_features: 57
+  n_folds: 10
+  n_samples: 595212
+  n_samples_test: 59521
+  n_samples_trainval: 535691
+  openml_dataset_id: 42742
+  openml_task_id: 360113
+  task_type: binary
+pumadyn32nh:
+  n_features: 32
+  n_folds: 10
+  n_samples: 8192
+  n_samples_test: 819
+  n_samples_trainval: 7373
+  openml_dataset_id: 44981
+  openml_task_id: 361259
+  task_type: regression
+qsar-biodeg:
+  n_features: 41
+  n_folds: 10
+  n_samples: 1055
+  n_samples_test: 106
+  n_samples_trainval: 950
+  openml_dataset_id: 1494
+  openml_task_id: 359956
+  task_type: binary
+rainfall_bangladesh:
+  n_features: 3
+  n_folds: 10
+  n_samples: 16755
+  n_samples_test: 1676
+  n_samples_trainval: 15080
+  openml_dataset_id: 41539
+  openml_task_id: 189935
+  task_type: regression
+road-safety:
+  n_features: 32
+  n_folds: 10
+  n_samples: 111762
+  n_samples_test: 11176
+  n_samples_trainval: 100586
+  openml_dataset_id: 45079
+  openml_task_id: 361320
+  task_type: regression
+rossmann_store_sales:
+  n_features: 17
+  n_folds: 10
+  n_samples: 804056
+  n_samples_test: 80406
+  n_samples_trainval: 723650
+  openml_dataset_id: 45647
+  openml_task_id: 361924
+  task_type: regression
+seattlecrime6:
+  n_features: 4
+  n_folds: 10
+  n_samples: 52031
+  n_samples_test: 5203
+  n_samples_trainval: 46828
+  openml_dataset_id: 45043
+  openml_task_id: 361289
+  task_type: regression
+sf-police-incidents:
+  n_features: 8
+  n_folds: 10
+  n_samples: 2215023
+  n_samples_test: 221502
+  n_samples_trainval: 1993521
+  openml_dataset_id: 42732
+  openml_task_id: 359994
+  task_type: binary
+shrutime:
+  n_features: 10
+  n_folds: 10
+  n_samples: 10000
+  n_samples_test: 1000
+  n_samples_trainval: 9000
+  openml_dataset_id: 45062
+  openml_task_id: 361304
+  task_type: regression
+sick:
+  n_features: 22
+  n_folds: 10
+  n_samples: 3103
+  n_samples_test: 310
+  n_samples_trainval: 2793
+  openml_dataset_id: 45059
+  openml_task_id: 361301
+  task_type: binary
+socmob:
+  n_features: 5
+  n_folds: 10
+  n_samples: 1156
+  n_samples_test: 116
+  n_samples_trainval: 1040
+  openml_dataset_id: 541
+  openml_task_id: 359932
+  task_type: regression
+space_ga:
+  n_features: 6
+  n_folds: 10
+  n_samples: 3107
+  n_samples_test: 311
+  n_samples_trainval: 2796
+  openml_dataset_id: 507
+  openml_task_id: 359933
+  task_type: regression
+steel-plates-fault:
+  n_features: 27
+  n_folds: 10
+  n_samples: 1941
+  n_samples_test: 194
+  n_samples_trainval: 1747
+  openml_dataset_id: 40982
+  openml_task_id: 168784
+  task_type: multiclass
+stock_fardamento02:
+  n_features: 6
+  n_folds: 10
+  n_samples: 6277
+  n_samples_test: 628
+  n_samples_trainval: 5649
+  openml_dataset_id: 42545
+  openml_task_id: 233169
+  task_type: regression
+sulfur:
+  n_features: 6
+  n_folds: 10
+  n_samples: 10081
+  n_samples_test: 1008
+  n_samples_trainval: 9073
+  openml_dataset_id: 23515
+  openml_task_id: 360966
+  task_type: regression
+superconduct:
+  n_features: 81
+  n_folds: 10
+  n_samples: 21263
+  n_samples_test: 2126
+  n_samples_trainval: 19137
+  openml_dataset_id: 43174
+  openml_task_id: 360991
+  task_type: regression
+tamilnadu-electricity:
+  n_features: 2
+  n_folds: 10
+  n_samples: 45781
+  n_samples_test: 4578
+  n_samples_trainval: 41203
+  openml_dataset_id: 40985
+  openml_task_id: 146823
+  task_type: multiclass
+topo_2_1:
+  n_features: 266
+  n_folds: 10
+  n_samples: 8885
+  n_samples_test: 888
+  n_samples_trainval: 7996
+  openml_dataset_id: 422
+  openml_task_id: 359939
+  task_type: regression
+us_crime:
+  n_features: 126
+  n_folds: 10
+  n_samples: 1994
+  n_samples_test: 199
+  n_samples_trainval: 1795
+  openml_dataset_id: 42730
+  openml_task_id: 359945
+  task_type: regression
+walking-activity:
+  n_features: 4
+  n_folds: 10
+  n_samples: 149332
+  n_samples_test: 14933
+  n_samples_trainval: 134399
+  openml_dataset_id: 1509
+  openml_task_id: 145877
+  task_type: multiclass
+waveform-5000:
+  n_features: 40
+  n_folds: 10
+  n_samples: 5000
+  n_samples_test: 500
+  n_samples_trainval: 4500
+  openml_dataset_id: 60
+  openml_task_id: 145985
+  task_type: multiclass
+wind:
+  n_features: 14
+  n_folds: 10
+  n_samples: 6574
+  n_samples_test: 657
+  n_samples_trainval: 5917
+  openml_dataset_id: 503
+  openml_task_id: 4831
+  task_type: regression
+wine_quality:
+  n_features: 11
+  n_folds: 10
+  n_samples: 6497
+  n_samples_test: 650
+  n_samples_trainval: 5847
+  openml_dataset_id: 287
+  openml_task_id: 359935
+  task_type: regression
+yprop_4_1:
+  n_features: 251
+  n_folds: 10
+  n_samples: 8885
+  n_samples_test: 888
+  n_samples_trainval: 7996
+  openml_dataset_id: 416
+  openml_task_id: 359940
+  task_type: regression

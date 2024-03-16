@@ -1,0 +1,18 @@
+[project]
+name = "tabular-models"
+version = "0.1.0"
+description = "Tabular model experiments"
+
+[tool.ruff]
+# https://docs.astral.sh/ruff/rules
+select = ["F", "E", "I", "B", "C4", "EXE", "PTH", "PD"]
+ignore = ["PTH123", "PD015", "PD901", "C408"]
+
+[tool.ruff.format]
+quote-style = "single"
+
+[tool.ruff.per-file-ignores]
+"__init__.py" = ["F401"]
+
+[tool.pyright]
+exclude = ["data", "venv"]
